@@ -1,0 +1,16 @@
+.vscode
+
+# java
+*.class
+
+# cpp
+*.exe
+*.slo
+*.lo
+*.o
+*.obj
+
+# py
+__pycache__/
+*.py[cod]
+*$py.class
